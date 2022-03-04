@@ -1,0 +1,52 @@
+[
+  {
+    "categoryId":"01",
+    "category":"Acoustic",
+    "categoryDes":"Nhạc acoustic là thể loại nhạc chỉ sử dụng các nhạc cụ mộc hoặc cổ điển, hoàn toàn trái ngược với việc dùng những nhạc cụ điện tử như guitar điện, bass, organ điện… trong bản nhạc. Có lẽ vì thế mà acoustic còn được gọi là nhạc mộc. Dòng nhạc acoustic có điểm nhấn là giọng ca của người hát. Nó không có sự ồn ã của bass, của guitar điện, không có sự sôi động của trống. Thay vào đó là sự nhẹ nhàng, mộc mạc đơn thuần chầm chậm chạm vào trái tim của người nghe. Như vậy, bản chất của dòng nhạc acoustic là sự bình yên, giản dị. Chỉ cần có một vài hiểu biết cơ bản, người chơi có thể chơi, tạo nên những giai điệu của riêng mình. Giọng hát, cảm xúc của người hát cũng là yếu tố quyết định ca khúc đó thành công hay thất bại."
+  },
+  {
+    "categoryId":"02",
+    "category":"Bolero",
+    "categoryDes":"Bolero là một điệu nhạc có nguồn gốc Tây Ban Nha du nhập sang Mỹ Latinh rồi du nhập vào Việt Nam khoảng đầu thập niên 1950. Điệu Bolero được sử dụng phổ biến nhất trong các bài nhạc vàng tại miền Nam Việt Nam. Chính vì được sử dụng quá phổ biến trong dòng nhạc vàng mà nhiều người nhầm điệu bolero với nhạc vàng, coi chúng là một. Cũng có người xem nó là một dòng nhạc riêng và thường gọi là nhạc bolero hoặc nhạc trữ tình - bolero. Thể loại âm nhạc có giai điệu chậm, lời ca giản dị gần gũi nhưng giàu tình cảm và đậm chất thơ. Không chỉ lời ca mà cả những hình tượng nhân vật xuất hiện trong Bolero cũng gần gũi và quen thuộc. Dòng nhạc này thường không mang tính trừu tượng, nhưng đơn giản và luôn gửi gắm một câu chuyện về tình yêu đôi lứa, gia đình,… Một số ca khúc còn mang nhiều ý nghĩa nhân sinh và triết lý sống nhân văn. Vì sâu lắng, bắt tai và dễ thuộc mà Bolero rất được ưa chuộng và chạm vào tâm hồn của chúng ta một cách dễ dàng."
+  },
+  {
+    "categoryId":"03",
+    "category":"Remix",
+    "categoryDes":"Remix (phối lại) là một phiên bản được phối lại từ bản nhạc gốc và thuật ngữ remix còn được sử dụng trong các lĩnh vực khác như phim, văn học, thơ, video, nhiếp ảnh... Khi phối lại bài hát thì người remix sẽ thay đổi hoặc thêm bớt một vài yếu tố trong bản nhạc gốc như thay đổi về tốc độ bản nhạc, thay đổi cường độ, cao độ, sự cân bằng, thời gian của bản nhạc… Tùy theo người remix, bản nhạc cũng có thể được phối lại hầu hết các thành phần âm nhạc."
+  },
+  {
+    "categoryId":"04",
+    "category":"POP",
+    "categoryDes":"Nhạc pop là thuật ngữ viết tắt của popular music trong tiếng Anh, trong tiếng Việt nó có nghĩa là nhạc đại chúng. Nó là một trong những loại nhạc đương đại cực kỳ phổ biến. Kể từ giữa những năm 1950, nhạc pop được xác định là âm nhạc và phong cách âm nhạc có thể tiếp cận được với khán giả rộng nhất. "
+  },
+  {
+    "categoryId":"05",
+    "category":"Jazz",
+    "categoryDes":"Jazz được khai sinh ở New Orleans vào khoảng cuối thế kỷ 19 đầu thế kỷ 20, khi người Mỹ gốc Phi kết hợp văn hóa bản địa với các nhạc cụ Châu Âu. Sau đó được lấy thêm cảm hứng từ cuộc sống hiện đại của Mỹ trong các khía cạnh đa dạng như phim ảnh, thể thao, âm nhạc, nghệ thuật, văn chương và cả chủng tộc nữa."
+  },
+  {
+    "categoryId":"06",
+    "category":"EDM",
+    "categoryDes":"Định nghĩa EDM được bao hàm ngắn gọn trong cái tên của nó: Electronic Dance Music, tức nhạc sôi động được tạo ra từ các thiết bị điện tử. Đây là dòng nhạc được bắt nguồn từ nhạc disco những năm 1970, thường xuất hiện trong các lễ hội âm nhạc và các câu lạc bộ đêm."
+  },
+  {
+    "categoryId":"07",
+    "category":"Kpop",
+    "categoryDes":"Hiểu theo cách đơn giản thì Kpop chính là viết tắt của cụm từ “Korean pop” hoặc “Korean Popular music”. Đây chính là một thể loại âm nhạc đến từ đất nước Hàn Quốc, bao gồm nhiều thể loại nhạc khác nhau từ nhạc hip hop, rock, R&B và cả nhạc điện tử. Mặc dù nhạc pop đã được ra đời từ khá lâu, ngay cả ở Hàn Quốc, thể loại Kpop cũng được biết đến từ những năm 1950, tuy nhiên phải đến những năm 2000 trở lại đây Kpop mới thực sự phát triển rầm rộ"
+  },
+  {
+    "categoryId":"08",
+    "category":"Ballad",
+    "categoryDes":"Nhạc ballad có giai điệu nhẹ nhàng. Cùng với đó là những câu từ sâu lắng. Chủ đề của nhạc ballad thường về tình yêu. Những chuyện tình buồn thường chạm đến trái tim của những khán giả nghe nhạc. "
+  },
+  {
+    "categoryId":"09",
+    "category":"Rap",
+    "categoryDes":"Rap là viết tắt của: Rhythm – And – Poetry (Nhịp và Thơ)  là một thể loại nhạc trong văn hóa hip hop xuất phát từ Âu Mỹ và được đặc trưng bằng việc trình diễn thông qua việc nói hoặc hô vang lời bài hát, ca từ một cách có vần điệu, kết hợp với động tác nhảy nhót, tạo hình"
+  },
+  {
+    "categoryId":"10",
+    "category":"Folk",
+    "categoryDes":"Thuật ngữ nhạc dân gian (folk music) xuất phát từ nước Anh, có nguồn gốc từ chữ 'volk' trong tiếng Đức, nghĩa là con người. Thuật ngữ này chỉ những thường dân ở Anh, những người nông dân mù chữ, họ kể lại các câu chuyện hay truyền thuyết thông qua các bài hát vì không có khả năng để xuất bản thành sách. Đây thường được xem là cách truyền đạt trong đời sống của cộng đồng, từ đó mà âm nhạc phát triển và trở thành một công cụ tuyệt vời giúp các nhà sử học khám phá ra lối sống của một dân tộc. Mặc dù thuật ngữ nhạc dân gian chỉ mới được sử dụng từ thế kỷ thứ 19, nhưng thực chất dòng nhạc này đã xuất hiện từ hàng trăm năm về trước"
+  }
+]

@@ -1,0 +1,51 @@
+.albumDetail{
+  & .main{
+    width: 100%;
+    padding: var(--pading-product);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: flex-start;
+    gap: 20px;
+  }
+  &__des{
+    //background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 20px;
+    &>*{
+    }
+    &__singer{
+      display: grid;
+      grid-template-columns: 1fr 7fr;
+      align-items: center;
+      gap: 20px;
+      &__img{
+        clip-path: circle(50% at 50% 50%);
+      }
+      &__name{
+        font-size: 20px;
+        text-transform: uppercase;
+        display: flex;
+        align-items: center;
+      }
+    }
+    &__name{
+      font-size: 60px;
+      font-weight: 800;
+      text-transform: uppercase;
+      transform: scaleY(0.75);
+    }
+    &__price{
+      font-size: 30px;
+      font-weight: 700;
+
+    }
+  }
+  &__songList{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+}

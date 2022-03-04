@@ -1,0 +1,61 @@
+.singer{
+  & .album__container{
+    padding: var(--pading-product);
+    &__title{
+      padding: var(--pading-product);
+      margin: var(--margin-album-container-title);
+      font-size: var(--fz-album-container-title);
+      font-weight: var(--fw-album-container-title);
+      text-transform: uppercase;
+      transform: scaleY(0.75);
+    }
+  }
+
+  & .singer{
+    &__img{
+      clip-path: circle(50% at 50% 50%);
+      border: 2px solid white;
+      border-radius: 100%;
+    }
+    &__header{
+      width: 100%;
+      background: url("https://i1.sndcdn.com/visuals-000014222323-61GphU-t2480x520.jpg") no-repeat center;
+      background-size: cover;
+      padding: var(--padding-singer-header);
+      display: grid;
+      grid-template-columns: var(--gtc-singer-header);
+      grid-template-rows: var(--gtr-singer-header);
+      gap: var(--gap-singer-header);
+      align-items: center;
+      justify-content: center;
+    }
+    &__info{
+      display: inline-flex;
+      flex-direction: column;
+      align-items: var(--align-item-singer-info);
+
+      gap: var(--gap-singer-header);
+      &>*{
+        color: white;
+        background: rgba(0, 0, 0, 0.26);
+        padding: var(--padding-singer-info-ele);
+        border-radius: 10px;
+        backdrop-filter: blur(8px);
+        border: 1px solid;
+      }
+    }
+    &__name{
+      display: inline-flex;
+      gap: 5px;
+      align-items: center;
+      font-size: var(--fz-singer-name);
+      font-weight: var(--fw-singer-name);
+      text-transform: uppercase;
+
+    }
+    &__des{
+      display: var(--display-singer-des);
+      font-size: var(--fz-singer-des);
+    }
+  }
+}

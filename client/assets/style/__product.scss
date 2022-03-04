@@ -1,0 +1,6 @@
+.product{
+  & .main{
+    width: 100%;
+    padding: var(--pading-product);
+  }
+}

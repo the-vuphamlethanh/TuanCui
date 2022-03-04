@@ -55,12 +55,12 @@ class DataProcessor
         foreach ($album["songList"] as $song){
             foreach ($categoryList->getCategoryList() as $category){
                 if ($song["category"] == $category["categoryId"]){
-                    $result .= ' | ' . $category["category"];
+                    $result .= '|' . $category["category"];
                     break;
                 }
             }
         }
-        return $result;
+        return implode(' | ', array_unique(explode('|', $result)));
     }
 
     /////////////////////////////

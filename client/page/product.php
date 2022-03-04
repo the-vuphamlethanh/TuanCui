@@ -45,9 +45,6 @@ $mainData = new DataProcessor();
     </div>
 </main>
 
-
-
-
 </body>
 <script src="https://unpkg.com/ionicons@5.0.0/dist/ionicons.js"></script>
 <!--<script src="../assets/javascript/main.js"></script>-->

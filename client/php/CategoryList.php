@@ -12,10 +12,7 @@ class CategoryList
 //        print_r($this->categoryList);
     }
 
-    /**
-     * @return array|mixed
-     */
-    public function getCategoryList(): mixed
+    public function getCategoryList()
     {
         return $this->categoryList;
     }

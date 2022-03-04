@@ -6,12 +6,12 @@ namespace php;
 
 use mysql_xdevapi\Exception;
 
-include "./Album.php";
-include "./Singer.php";
-include "./Category.php";
-include "./Song.php";
-include "./Creator.php";
-include "./CategoryList.php";
+//include "./Album.php";
+//include "./Singer.php";
+//include "./Category.php";
+//include "./Song.php";
+//include "./Creator.php";
+//include "./CategoryList.php";
 
 
 class DataProcessor
@@ -103,7 +103,7 @@ class DataProcessor
         }
     }
 
-    public function addSong($singerIndex, $albumIndex, $song){
+    public function addSong($singerIndex, $albumIndex,Song $song){
         $this->mainData[$singerIndex]["albumList"][$albumIndex]["songList"][] = $song->castToArray();
         $this->putToJson($this->mainData);
     }
